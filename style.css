@@ -1,0 +1,63 @@
+.body{
+  margin: 0;
+  background-color: purple;
+  color: white;
+  font-family: arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.tituloppal{
+  display: flex;
+  background-color: black;
+}
+
+.beneficios{
+  display: flex;
+  justify-content: space-around;
+  height: 20rem;
+  align-items: center;
+}
+
+.ben{
+  display: flex;
+  background-color: red;
+  height: 10rem;
+  border: 3px solid #000;
+  align-items: center;
+  width: 20%;
+}
+
+.testimonios{
+  display: flex;
+}
+
+.testi{
+  background-color: gray;
+  height: 5rem;
+  border: 3px solid #000;
+  align-items: center;
+  width: 20%
+}
+
+.incentivo{
+  display: flex;
+}
+
+.incent{
+  display: flex;
+}
+
+.llamadacc{
+  display: flex;
+}
+
+.confianza{
+  display: flex;
+}
+
+.confi{
+  display: flex;
+}
